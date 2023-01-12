@@ -1,0 +1,12 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+#calculator{
+    background-color: blue;
+    color: yellow;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
